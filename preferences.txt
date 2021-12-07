@@ -1,0 +1,5 @@
+       Favorite film:"The Pursit of Happyess" 
+       Favorite TV series:"Money Heist"
+       Favorite food":seafood
+       The country i want to visit:Norway
+

@@ -1,0 +1,2 @@
+Courses:"QA",
+Skills:"Git","Postman","Python","Jmeter","Charles","Android studio".
