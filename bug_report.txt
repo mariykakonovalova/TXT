@@ -1,1 +1,10 @@
+ Summary:"missing price in item",
+ Priority:Medium,
+ Severity:Minor,
+ Description:missing price in item,
+ Expected Result:latest poducts section,
+ Actual result:See the price in item.
 
+ Steps to reproduse:1. Open http://store.demoga.com.
+                      2. Go in the bottom All produkt.
+                      3. Go to third item called "iPod Nano Blueand"and you will see $0.00.
